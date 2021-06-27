@@ -19,7 +19,7 @@ businesses.
 - 📍 Istanbul, Turkey
 - 💼 Freelance Web Developer 
 - 👨‍💻 Looking for imporve my software engineering skills more and more!
-- <a href="https://mahmudmardini.bartinrehberi.info/">My Website</a>
+- <a href="https://mahmudmardini.bartinrehberi.info/">🌐My Website</a>
 
 
 ## Find me on
