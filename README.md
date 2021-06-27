@@ -1,10 +1,11 @@
 # Hi, I'm Mahmud 👋🏽 👨🏽‍💻
-![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jquery](https://img.shields.io/badge/-Jquery-black?style=flat-square&logo=jquery)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=Csharp)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+![C#](https://img.shields.io/badge/-Csharp-purple?style=flat-square&logo=Csharp)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <img width="1294" alt="Adam Espinoza sitting in a chair debugging a Robot" src="https://user-images.githubusercontent.com/11344661/87259683-ee78fe00-c461-11ea-86c8-5d0642895aee.png">
