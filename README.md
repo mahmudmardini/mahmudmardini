@@ -10,11 +10,6 @@
 
 <img width="1294" alt="Adam Espinoza sitting in a chair debugging a Robot" src="https://user-images.githubusercontent.com/11344661/87259683-ee78fe00-c461-11ea-86c8-5d0642895aee.png">
 
-I am a highly motivated, detail oriented, and flexible individual with a good
-experience in Web Development and an interest in AI and E-Commerce
-businesses. 
-
-
 **Me, in a nutshell:**
 
 - 📍 Istanbul, Turkey
