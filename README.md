@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-<img width="1294" alt="Adam Espinoza sitting in a chair debugging a Robot" src="https://user-images.githubusercontent.com/11344661/87259683-ee78fe00-c461-11ea-86c8-5d0642895aee.png">
+<img width="1294" alt="Coding" src="code.gif">
 
 **Me, in a nutshell:**
 
