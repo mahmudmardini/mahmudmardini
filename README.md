@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-<img width="1294" alt="Coding" src="code.gif">
+<img width="" height="" alt="Coding" src="code.gif">
 
 **Me, in a nutshell:**
 
