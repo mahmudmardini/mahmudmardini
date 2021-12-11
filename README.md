@@ -11,7 +11,7 @@
 **Me, in a nutshell:**
 
 - 📍 Bartin, Turkey
-- 💼 Freelance Web Developer 
+- 💼 Software Developer 
 - 👨‍💻 A developer who loves to learn and create new things. Keeping the good mood and the good code!
 - <a href="https://mahmudmardini.bartinrehberi.info/" target="_blank">🌐My Portfolio</a>
 
