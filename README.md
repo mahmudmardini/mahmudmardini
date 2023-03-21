@@ -13,7 +13,7 @@
 - 📍 Trabzon, Turkey
 - 💼 Software Engineer 
 - 👨‍💻 A developer who loves to learn and create new things. Keeping the good mood and the good code!
-- <a href="https://mahmudmardini.bartinrehberi.info/" target="_blank">🌐My Portfolio</a>
+- <a href="https://mahmudmardini.com/" target="_blank">🌐My Portfolio</a>
 
 
 ## Find me on
