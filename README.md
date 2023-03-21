@@ -12,7 +12,7 @@
 
 - 📍 Trabzon, Turkey
 - 💼 Software Engineer 
-- 👨‍💻 A developer who loves to learn and create new things. Keeping the good mood and the good code!
+- 👨‍💻 A Software Engineer who loves to learn and create new things. Keeping the good mood and the good code!
 - <a href="https://mahmudmardini.com/" target="_blank">🌐My Portfolio</a>
 
 
